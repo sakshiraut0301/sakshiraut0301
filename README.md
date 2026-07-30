@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Sakshi Raut
 
-<!--
-**sakshiraut0301/sakshiraut0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Blockchain Technology Student at MIT-WPU
 
-Here are some ideas to get you started:
+💻 Software Engineer | Full Stack Developer | Business Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Solidity
+- React
+- AWS
+- Node.js
+
+## 🛠️ Tech Stack
+
+Java | Python | React | Solidity | SQL | MongoDB | Git | AWS
+
+## 📫 Connect with me
+
+- Email: sakshiraut246@gmail.com
+- LinkedIn: https://linkedin.com/in/sakshiiraut
