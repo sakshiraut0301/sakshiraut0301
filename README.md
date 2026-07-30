@@ -12,7 +12,7 @@ Currently, I am focusing on:
 - 📊 Data Analytics and Business Intelligence
 
 ---
-
+<a id="about me"></a>
 ## About Me
 
 - 🔭 Working on **blockchain-based applications and decentralized solutions**
