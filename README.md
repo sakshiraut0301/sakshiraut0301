@@ -25,7 +25,7 @@ Currently, I am focusing on:
 
 <div align="center">
 
-<a href="#about">
+<a href="#about me">
 <img src="https://img.shields.io/badge/ABOUT-000000?style=for-the-badge"/>
 </a>
 
@@ -35,10 +35,6 @@ Currently, I am focusing on:
 
 <a href="#projects">
 <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge"/>
-</a>
-
-<a href="#experience">
-<img src="https://img.shields.io/badge/EXPERIENCE-000000?style=for-the-badge"/>
 </a>
 
 <a href="#github-stats">
