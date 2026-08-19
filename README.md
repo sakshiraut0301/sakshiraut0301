@@ -89,7 +89,7 @@ https://github.com/yourusername/CharityChain
 
 <td width="50%" valign="top">
 
-## 💰 Blockchain Crowdfunding Platform
+## 💰 CrowdFund
 
 A decentralized crowdfunding platform where users can launch fundraising campaigns and contribute securely using MetaMask.
 
@@ -98,7 +98,7 @@ A decentralized crowdfunding platform where users can launch fundraising campaig
 React • Solidity • SQL • Hardhat • MetaMask
 
 🔗 **Repository:**  
-https://github.com/sakshiraut0301/Blockchain-Tokenized-Crowdfunding-Platform
+https://github.com/sakshiraut0301/CrowdFund
 
 🌐 **Status:** Completed
 
@@ -110,7 +110,7 @@ https://github.com/sakshiraut0301/Blockchain-Tokenized-Crowdfunding-Platform
 
 <td width="50%" valign="top">
   
-## 🩸 Blood Donation Management System
+## 🩸 BloodBridge
 
 A web application connecting blood donors and recipients with request management and donor records.
 
@@ -119,7 +119,7 @@ A web application connecting blood donors and recipients with request management
 HTML • CSS • JavaScript • PHP • MySQL
 
 🔗 **Repository:**  
-https://github.com/sakshiraut0301/React-based-Blood-Donation-project
+https://github.com/sakshiraut0301/BloodBridge
 
 🌐 **Status:** Completed
 
