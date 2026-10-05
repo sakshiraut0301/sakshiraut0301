@@ -19,7 +19,7 @@ Currently, I am focusing on:
 - 🔭 Working on **blockchain-based applications and decentralized solutions**
 - 🌱 Learning advanced concepts in **Web3, Smart Contracts, DeFi, and Cloud Technologies**
 - 💡 Interested in **Software Development, Blockchain Engineering, and Business Analytics**
-- 🛠️ Experienced with **React.js, Java, Python, SQL, Solidity, and AWS**
+- 🛠️ Experienced with **React.js, Java, Python, SQL, Solidity**
 - 📌 Building projects that combine **technology, transparency, and real-world impact**
 
 ---
