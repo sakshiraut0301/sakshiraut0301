@@ -3,7 +3,7 @@
 
 🎓 **M.Sc. Blockchain Technology Student at MIT-WPU, Pune**
 
-💻 **Software Engineer | Full Stack Developer | Blockchain Developer | Business Analyst**
+💻 **Software Engineer | Full Stack Developer | Blockchain | Business Analyst**
 
 I am passionate about building secure, scalable, and innovative technology solutions using modern web technologies and blockchain frameworks. I enjoy developing full-stack applications, exploring decentralized technologies, and solving real-world problems through technology.
 
